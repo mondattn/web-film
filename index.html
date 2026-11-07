@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>WEB FILM</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <script>
+        // Chống nháy theme: đọc localStorage trước khi CSS áp (giống bản gốc, mặc định tối).
+        try {
+            var t = localStorage.getItem('theme');
+            document.documentElement.classList.toggle('light', t === 'light');
+            document.documentElement.classList.toggle('dark', t !== 'light');
+            if (localStorage.getItem('nguonc:public:movie-view') === 'grid') document.documentElement.setAttribute('data-nc-movie-view', 'grid');
+        } catch (_) {}
+    </script>
+    <script type="module" src="/src/main.ts"></script>
+</head>
+<body class="nc-body antialiased">
+    <div class="nc-scroll-progress" aria-hidden="true"><span style="transform: scaleX(0);"></span></div>
+    <div class="nc-backdrop" aria-hidden="true"><div class="nc-backdrop__glow"></div></div>
+
+    <header class="nc-site-header" id="site-header"></header>
+
+    <main class="nc-main" id="content"></main>
+
+    <footer class="nc-site-footer">
+        <div class="nc-site-footer__inner">
+            <div><p>Bản dựng lại trang chi tiết phim cho mục đích học tập. Dữ liệu phim, ảnh và nguồn phát lấy trực tiếp từ API công khai của nguonc.com; trang này không lưu trữ hay phát hành nội dung nào.</p></div>
+            <div class="nc-site-footer__links">
+                <span>WEB FILM · clone 2026</span>
+                <a href="https://phim.nguonc.com/api" target="_blank" rel="noopener noreferrer">API Nguồn C</a>
+            </div>
+        </div>
+    </footer>
+
+    <nav class="nc-mobile-drawer" id="menu_header_mobile" aria-label="Điều hướng di động" aria-hidden="true"></nav>
+</body>
+</html>

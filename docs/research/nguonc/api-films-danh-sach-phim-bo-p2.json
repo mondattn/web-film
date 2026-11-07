@@ -1,0 +1,316 @@
+{
+ "status": "success",
+ "paginate": {
+  "current_page": 2,
+  "total_page": 1435,
+  "total_items": 14347,
+  "items_per_page": 10
+ },
+ "cat": {
+  "name": "Phim bộ",
+  "title": "Phim bộ",
+  "slug": "phim-bo"
+ },
+ "items": [
+  {
+   "name": "Romelia Senki",
+   "original_name": "Romelia War Chronicle, Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita, Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King, A History of the Romelia",
+   "slug": "romelia-senki",
+   "year": "2026",
+   "description": "Chiến thắng Quỷ vương đáng lẽ phải là vinh quang của Romelia. Thay vào đó, vị hôn phu của cô, Hoàng tử Henri, lại hủy hôn và đày cô về một vùng lãnh thổ hoang tàn trong nỗi ô nhục. Không có sự trợ giúp nào, Romelia thề sẽ gây dựng một đội quân, tái thiết những thị trấn đổ nát và vực dậy một vương quốc đang lao đao khi những xung đột mới nổ ra. Chiến tranh có thể đã kết thúc, nhưng câu chuyện của cô chỉ mới bắt đầu.",
+   "total_episodes": 24,
+   "current_episode": "Tập 6",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Yuna Nemoto, Jin Ogasawara, Tomohiro Ono, Yuya Hirose",
+   "tmdb": {
+    "id": 305313,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/305313/season/1"
+   },
+   "imdb": {
+    "id": "tt42727894",
+    "url": "https://www.imdb.com/title/tt42727894/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-662c2fdadd496d20d3a4a65f726aa458eb808cbe9bfa2694951906c66c87f1ae.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-3f58d1a3eb3a76321393f6f5bfafc38c57ef451b79733522a82676f1a911f014.webp",
+   "poster_url": "https://img.nguonc.com/images/img-39cf5bc68f940d87f7d7e86863d03ec8b9f581eda2c4fe7ba83aa62323378c58.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-1a6a5d7fddb1e509eaebb1a0f8639e0064d6599e59803c90ab2fe546d1e26da3.webp",
+   "created": "2026-10-05T07:18:15.000000Z",
+   "modified": "2026-11-07T14:38:53.000000Z"
+  },
+  {
+   "name": "Trùm Cuối Hoang Dã Xuất Hiện! (Phần 2)",
+   "original_name": "A Wild Last Boss Appeared!/Yasei no Last Boss ga Arawareta! (Season 2)",
+   "slug": "trum-cuoi-hoang-da-xuat-hien-phan-2",
+   "year": "2026",
+   "description": "Năm 2800, theo lịch Midgard. Một Overlord với sức mạnh tuyệt đối đã thống nhất toàn cõi thế gian. Tên cô là Ruphas Mafahl, hay vốn được biết với cái tên Hắc Dực Thiên Vương. Quá nhanh, quá mạnh, và quá xinh đẹp… Nhưng một ngày nọ, những anh hùng vô danh đã đứng lên chống lại cô, khiến giấc mộng bá vương tan thành mây khói. Đó chính là cốt truyện của nhân vật ingame của MC trong câu chuyện này, không hiểu vì lí do gì lại bị triệu hồi đến Midgard, nhưng là tương lai 200 năm sau khi Ruphas bị đánh bại. Hơn nữa, chính cậu cũng bị biến thành Ruphas. Bối rối và không hiểu chuyện gì đang xảy ra, cậu sẽ phải làm gì để đương đầu với những thứ sắp tới?",
+   "total_episodes": 10,
+   "current_episode": "Tập 7",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": 280042,
+    "type": "tv",
+    "season": 2,
+    "url": "https://www.themoviedb.org/tv/280042/season/2"
+   },
+   "imdb": {
+    "id": "tt33258199",
+    "url": "https://www.imdb.com/title/tt33258199/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-6b2891edd51550035d97586ecd0e8f6d18b15fac233fda46a5ab6af452d6b753.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-3bcde026d375c5e8a4d30d45e523d51c86e591622ac2d497ad20c8225d84c5ac.webp",
+   "poster_url": "https://img.nguonc.com/images/img-83c4b40742bec8ec4fda1b76246e10c8c26399174e0565e670ba22a1442b8056.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-2b616e193fd09c32cff66f1d231bec51050629a2bad54f74d3c2ab5a06b60389.webp",
+   "created": "2026-09-27T09:33:28.000000Z",
+   "modified": "2026-11-07T14:36:37.000000Z"
+  },
+  {
+   "name": "Thám Tử Lừng Danh Conan",
+   "original_name": "Detective Conan, Case Closed, Meitantei Conan",
+   "slug": "tham-tu-lung-danh-conan",
+   "year": "1996",
+   "description": "Shinichi Kudou, một học sinh trung học có tài năng đáng kinh ngạc trong công việc thám tử, nổi tiếng vì đã giải quyết một số vụ án đầy thách thức. Một ngày nọ, khi Shinichi phát hiện ra hai người đàn ông đáng ngờ và quyết định theo dõi họ, anh vô tình trở thành nhân chứng cho một hoạt động phi pháp đáng lo ngại.",
+   "total_episodes": 2000,
+   "current_episode": "Tập 1219",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Lồng Tiếng",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": 30983,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/30983"
+   },
+   "imdb": {
+    "id": "tt0131179",
+    "url": "https://www.imdb.com/title/tt0131179/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-92e24423ac097c47fe1a0cec2475d8bf1e0180f130245d299d09952a967e1ff3.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-8c6e61ade11e6834f60e713598f7c046ca919b6a07e9a0e0732ddb7f27825e4f.webp",
+   "poster_url": "",
+   "poster_url_webp": "https://img.nguonc.com/images/img-8c6e61ade11e6834f60e713598f7c046ca919b6a07e9a0e0732ddb7f27825e4f.webp",
+   "created": "2023-07-18T14:38:54.000000Z",
+   "modified": "2026-11-07T14:35:30.000000Z"
+  },
+  {
+   "name": "Đấu Phá Thương Khung 5",
+   "original_name": "Đấu Phá Thương Khung: Học Viện Già Nam, Fights Break Sphere Season 5",
+   "slug": "dau-pha-thuong-khung-5",
+   "year": "2022",
+   "description": "Sau ước hẹn ba năm sau, Tiêu Viêm cuối cùng cũng gặp được Huân Nhi ở Già Nam học viện, sau đó hắn kết bạn, gây dựng danh tiếng và thành lập Bàn Môn; vì tiếp tục nâng cao thực lực để quay lại Vân Lam Tông báo thù cho cha, hắn đặt mình vào nguy hiểm xâm nhập Thiên Phần Luyện Khí tháp để thôn phệ Vẫn Lạc Tâm Viêm, sau đó…",
+   "total_episodes": 239,
+   "current_episode": "Tập 218",
+   "time": null,
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": null,
+    "type": null,
+    "season": null,
+    "url": null
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-7b2724b95f7df81b0a1aa442a0206801e17a455f00cf0d8ad0116636c3d9e8c2.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-1f9cac9c0989fce9b1a3d379a663bed2e0d6b25d7a727c626de508cd678dc953.webp",
+   "poster_url": "",
+   "poster_url_webp": "https://img.nguonc.com/images/img-1f9cac9c0989fce9b1a3d379a663bed2e0d6b25d7a727c626de508cd678dc953.webp",
+   "created": "2023-07-18T14:39:02.000000Z",
+   "modified": "2026-11-07T14:33:15.000000Z"
+  },
+  {
+   "name": "Chuyện Về Đại Thánh Nữ Chuyển Sinh Ẩn Danh",
+   "original_name": "Tensei shita Daiseijo wa, Seijo de Aru Koto wo Hitakakusu, A Tale of the Secret Saint, A Tale of the Great Saint, The Reincarnated Great Saint Hides That She's a Saint",
+   "slug": "chuyen-ve-dai-thanh-nu-chuyen-sinh-an-danh",
+   "year": "2026",
+   "description": "Fia luôn mơ ước trở thành một hiệp sĩ vĩ đại, dù cô thiếu tài năng kiếm thuật. Sau đó, một lần cận kề cái chết trên chiến trường đã đánh thức những ký ức về kiếp trước của cô với tư cách là Thánh nữ huyền thoại từng đánh bại Quỷ vương. Sức mạnh của cô trở lại, nhưng những kẻ thù từng giết cô trước đây cũng vậy. Fia thề sẽ che giấu thân thực sự của mình để sinh tồn. Nhưng làm sao một hiệp sĩ có thể cưỡng lại việc sử dụng sức mạnh của mình để giúp đỡ những người hoạn nạn?",
+   "total_episodes": 13,
+   "current_episode": "Tập 7",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Shion Wakayama, Shinnosuke Tokudome, Yuuichirou Umehara, Nobunaga Shimazaki",
+   "tmdb": {
+    "id": 285899,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/285899/season/1"
+   },
+   "imdb": {
+    "id": "tt38939893",
+    "url": "https://www.imdb.com/title/tt38939893/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-7328183409916eae2e5f2a26c96f875380936c5e6f11505b8c68ae6486f949e0.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-b3cd6cc90b33fc73870a6360ba73a6ebf5055ca67c3d3cbe5ec79eef5f2d653d.webp",
+   "poster_url": "https://img.nguonc.com/images/img-bd0df3804e9ece79c4ed6737d3d41ca88e45b0346c0960ce3040ef8d4d6db29a.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-60642ce9e53f2d214df5aed821a974a8bf66840d442c8623db600a060f243992.webp",
+   "created": "2026-10-04T08:45:56.000000Z",
+   "modified": "2026-11-07T14:31:45.000000Z"
+  },
+  {
+   "name": "Thượng Công Chúa",
+   "original_name": "Tigers Sniff the Rose",
+   "slug": "thuong-cong-chua",
+   "year": "2026",
+   "description": "Phim kể về Mộ Vãn Yêu, một tiểu thư danh giá không chịu khuất phục trước số phận, và Yến Thương, một thanh niên tài trí xuất thân từ chốn bình dân. Cả hai cùng nhau chiến đấu để xây dựng một thế giới hòa bình. Giữa chốn hỗn loạn của thời đại loạn lạc, liệu những giấc mơ của họ có thành hiện thực?",
+   "total_episodes": 40,
+   "current_episode": "Tập 31",
+   "time": "45 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh + Lồng Tiếng",
+   "director": "Zoe Qin",
+   "casts": "Mạnh Tử Nghĩa, Lý Hân Duệ, Ngô Hán Khôn, Quan Yilun",
+   "tmdb": {
+    "id": 286171,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/286171/season/1"
+   },
+   "imdb": {
+    "id": "tt35324004",
+    "url": "https://www.imdb.com/title/tt35324004/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-b5062972890525fe851d79773ebdaa2c3e0b9124d9ff8a0485ed84ff35f61eae.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-15e6c8f8795a8dee6961f65ba2c736f1fef0e1bc0ef1056d40a0644d2eb85435.webp",
+   "poster_url": "https://img.nguonc.com/images/img-6668f062bff99398f06909fa849955c60491d2fe4cf55f95416b72e1c2e0e513.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-7bd3456e50dbd6792df44b5b0a0c5f33cfaf32b5f0f91c6ab1f47b45edf58e74.webp",
+   "created": "2026-10-23T11:38:27.000000Z",
+   "modified": "2026-11-07T11:10:50.000000Z"
+  },
+  {
+   "name": "Pokémon Horizons: The Series",
+   "original_name": "Pokemon: Liko to Roy no Tabidachi, Pocket Monsters: Liko to Roy no Tabidachi, Pokemon Horizons: Liko and Roy's Departure",
+   "slug": "pokemon-horizons-the-series",
+   "year": "2023",
+   "description": "Theo dõi Liko và Roy khi họ làm sáng tỏ những bí ẩn xung quanh họ và chạm trán với Friede, Thuyền trưởng Pikachu, Amethio và những người khác trong cuộc phiêu lưu thú vị của họ!",
+   "total_episodes": 1000,
+   "current_episode": "Tập 156",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Lồng Tiếng",
+   "director": "Saori Den, Makoto Nakata, Yuji Asada",
+   "casts": "Minori Suzuki, Yuka Terasaki, Yoshino Aoyama, Daiki Yamashita",
+   "tmdb": {
+    "id": 220150,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/220150"
+   },
+   "imdb": {
+    "id": "tt26692417",
+    "url": "https://www.imdb.com/title/tt26692417/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-6b6161282b1a0e89426a1413b05e3f6a9a1baab9a8b16b5cab5d206fc5a2394f.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-e4b83392be41e728eaae2bc965119dfb45525e4525b5ba74832969c7a82b8850.webp",
+   "poster_url": "https://img.nguonc.com/images/img-51d26c4a531752e9107f353c1492c613c602bdccc0bba8e8e35e7f8794b51b08.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-df2dac2d093b8c6774ea8c9667319ff832cde947a7e446e39c0291689fe4bf9f.webp",
+   "created": "2023-07-18T14:37:01.000000Z",
+   "modified": "2026-11-07T10:48:45.000000Z"
+  },
+  {
+   "name": "Gấp Ánh Trăng",
+   "original_name": "When I Meet the Moon",
+   "slug": "gap-anh-trang",
+   "year": "2026",
+   "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học.",
+   "total_episodes": 27,
+   "current_episode": "Tập 8",
+   "time": "45 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Elson Chang",
+   "casts": "Lâm Nhất, Lư Dục Hiểu, Lư Dương Dương, Lý Ca Dương",
+   "tmdb": {
+    "id": 270431,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/270431/season/1"
+   },
+   "imdb": {
+    "id": "tt36983579",
+    "url": "https://www.imdb.com/title/tt36983579/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-faa3ee975fd234bcd00464b06629a61a6309fb5cc5a123252261bd100e631fcf.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-353fc079bf2790af68f80187ba96643d871a749a6af3e5fa21b05be469a8b2dd.webp",
+   "poster_url": "https://img.nguonc.com/images/img-bb42dab744b4f1aa4c576dfdf6abba941e9455f8f98b0f7f7a6cf4d3e9598067.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-d3fc99837e57decd9b11c6ff1a2029473ae7f81a46596a21b2e72991d32f12c3.webp",
+   "created": "2026-11-05T11:57:23.000000Z",
+   "modified": "2026-11-07T10:47:40.000000Z"
+  },
+  {
+   "name": "Mặt Nạ Chu Sa",
+   "original_name": "Shuiro no Kamen / The Vermilion Mask",
+   "slug": "mat-na-chu-sa",
+   "year": "2026",
+   "description": "Peru, thợ học việc làm mặt nạ, đáng lẽ phải biết trước những nguy hiểm từ các Chiếc Mặt Nạ. Bị Mặt Nạ Chiến Thần ám, cậu vô tình sát hại bạn bè và sư phụ mình, huyền thoại Gaston Roux. Đè nặng bởi sự cắn rứt, Peru thề sẽ tiêu hủy mọi chiếc mặt nạ do sư phụ tạo ra trước khi thảm kịch lặp lại. Trên hành trình vòng quanh thế giới để thực hiện sứ mệnh, Peru kết bạn, chiến đấu với kẻ thù và đối mặt với tội lỗi của chính mình.",
+   "total_episodes": 12,
+   "current_episode": "Tập 5",
+   "time": "23 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Taihi Kimura, Yuuki Yamamoto, Kazuki Ura, Takanori Hoshino",
+   "tmdb": {
+    "id": 295420,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/295420/season/1"
+   },
+   "imdb": {
+    "id": "tt41153966",
+    "url": "https://www.imdb.com/title/tt41153966/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-6caec44cc06ccf5431e558c4a1066cbaebdd846e02c4ec46d0aff61b79ac7b74.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-b9b1a8bc57a4eda8f1739daf7b2a85133eef2e489758279c57669b7027118c06.webp",
+   "poster_url": "https://img.nguonc.com/images/img-19fefeefa5db9e629a2e458594fa5fdf90e5e76a44ffb81caafea38e49703450.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-8d30a9edae70378a35a9ab21cad8866dbee5c3629d32ae8ee5e8b0f615ef7740.webp",
+   "created": "2026-10-10T11:48:35.000000Z",
+   "modified": "2026-11-07T10:45:32.000000Z"
+  },
+  {
+   "name": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện",
+   "original_name": "The Eternal Supreme: Li Yunxiao",
+   "slug": "van-co-chi-ton-ly-van-tieu-truyen",
+   "year": "2026",
+   "description": "Vạn Cổ Chí Tôn: Lý Vân Tiêu Truyện, hoành tráng như đúng cái tên gọi, chính là hành trình tạo nên lịch sự của Lý Vân Tiêu khi giúp cho nước Thiên Thủy hóa giải những gian nguy và bản thân anh chàng cũng vì chấp niệm mà có thể thực hiện được ước nguyện tiến vào Thần cảnh của chính mình từ kiếp trước. Vốn dĩ không thuộc về nhân gian này, không phải là người sinh ra tại nước Thiên Thủy đang náo loạn kia, Lý Vân Tiêu chính là Cổ Phi Dương, lừng danh là một Phá Quân Võ Đế trên đại lục Thiên Võ suốt ngàn năm. Nhưng vì những quy tắc đã được đặt ra, dẫu Cổ Phi Dương có muốn và tu luyện đã bao lâu rồi nhưng không thể bứt phá lên được, mãi mãi không thể bước vào Thần Cảnh. Nhưng có một cách, đó là chuyển thế và tu luyện thêm lần nữa, nhưng điều đó phải trả giá rất đắt, và thậm chí là vô cùng gian khổ để có thể chuyển thế. Nói là làm, Cổ Phi Dương lên kế hoạch để chuyển thế và hiện thân là một cậu thiếu niên Lý Vân Tiêu mà đã nhắc đến ở bên trên. Nhờ những đánh đổi như vậy, Lý Vân Tiêu ở nước Thiên Thủy đã cứu rỗi thiên hạ khỏi giặc ngoại xâm và những nội loạn trong triều, và cũng chính thức đưa bản thân cậu tiến lên Thần cảnh, một khát khao mòn mỏi khi vẫn còn là Cổ Phi Dương Phá Quân Võ Đế.",
+   "total_episodes": 50,
+   "current_episode": "Tập 34",
+   "time": "12 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": 329125,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/329125"
+   },
+   "imdb": {
+    "id": "tt44368752",
+    "url": "https://www.imdb.com/title/tt44368752/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-2154610b1b1ac0a98c5ba2f9772c0f4b5e8675759ee5cf921a57eddd3daa62df.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-ce1424ec139593aa9846863acf5d24357820c150d453697b589e5b278729d852.webp",
+   "poster_url": "https://img.nguonc.com/images/img-5f90bea94305938ae58611ca05b02b9b2048a0e5285b709c583b5db6d0a99c57.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-89444eda2d610d244c494e40a9531f6041b86a4e516b96aad1fae408738e48ee.webp",
+   "created": "2026-07-20T05:08:26.000000Z",
+   "modified": "2026-11-07T08:34:47.000000Z"
+  }
+ ]
+}

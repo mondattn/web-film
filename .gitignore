@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.DS_Store
+# evidence bundle REA (7 MB) — giữ local, không commit
+docs/research/rea-capture/bundle-*.json
+_to_delete/

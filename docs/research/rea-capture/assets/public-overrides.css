@@ -1,0 +1,105 @@
+/* Final public presentation rules; preserve V3.60-FIX3 cascade. */
+
+/* Only the outer TMDB/IMDb links; brand colors and mobile visibility stay in their existing rules. */
+a.nc-film-external-link,
+a.nc-film-external-link:hover,
+a.nc-film-external-link:focus,
+a.nc-film-external-link:active {
+    background: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+
+    .nc-movie-list .nc-movie-table .nc-movie-provider-col { width: 72px; }
+    .nc-movie-list .nc-movie-provider { white-space: nowrap; }
+    .nc-movie-list .nc-movie-table .nc-movie-provider-col--imdb { width: 138px; }
+    .nc-movie-list .nc-film-imdb-rating { display: inline-flex; align-items: center; gap: 3px; margin-left: 6px; font-size: 12px; font-weight: 600; white-space: nowrap; }
+    .nc-movie-list .nc-film-imdb-rating__star { color: #f5c518; }
+    .nc-movie-list .nc-film-imdb-rating small { font-size: 10px; opacity: .7; }
+    .nc-movie-list .nc-movie-provider .nc-film-external-link {
+        min-height: 0;
+        padding: 3px;
+        gap: 0;
+        border-radius: 6px;
+        vertical-align: middle;
+    }
+    .nc-movie-list .nc-movie-provider .nc-film-external-brand {
+        padding: 3px 6px;
+        font-size: 11px;
+        line-height: 14px;
+    }
+    @media (max-width: 767px) {
+        .nc-movie-list .nc-movie-table tbody tr > td.nc-movie-provider {
+            display: flex;
+            grid-row: 2;
+            align-items: center;
+            padding: 0 10px 10px;
+            border: 0;
+        }
+        .nc-movie-list .nc-movie-table td.nc-movie-provider[data-label="TMDB"] { grid-column: 1; }
+        .nc-movie-list .nc-movie-table td.nc-movie-provider[data-label="IMDb"] { grid-column: 2; justify-content: flex-end; }
+        .nc-movie-list .nc-movie-table td.nc-movie-provider::before { content: none; }
+    }
+    @media (max-width: 767px) {
+        .nc-home-page .nc-movie-list .nc-movie-table th.nc-movie-provider-col,
+        .nc-home-page .nc-movie-list .nc-movie-table tbody tr > td.nc-movie-provider {
+            display: none;
+        }
+    }
+
+
+    .nc-movie-list .nc-country-flag { display: inline-flex; align-items: center; justify-content: center; width: 32px; min-height: 28px; border-radius: 4px; color: var(--nc-text-muted, #94a3b8); vertical-align: middle; }
+    .nc-movie-list .nc-country-flag img { display: block; width: 28px; height: 21px; object-fit: contain; border-radius: 2px; }
+    .nc-movie-list .nc-country-flag:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+
+
+    .nc-movie-list .nc-movie-table .nc-country-flags {
+        display: inline-flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: center;
+        gap: 4px;
+        width: 32px;
+        max-width: 100%;
+        white-space: nowrap;
+        vertical-align: middle;
+    }
+    .nc-movie-list .nc-country-flags .nc-country-flag {
+        display: inline-flex;
+        flex: 0 0 auto;
+        align-items: center;
+        justify-content: center;
+        width: 32px;
+        min-height: 28px;
+        border-radius: 4px;
+        color: var(--nc-text-muted, #94a3b8);
+    }
+    .nc-movie-list .nc-country-flags .nc-country-flag img {
+        display: block;
+        flex: 0 0 auto;
+        width: 28px;
+        height: 21px;
+        object-fit: contain;
+        border-radius: 2px;
+    }
+    .nc-movie-list .nc-country-flags .nc-country-flag:focus-visible {
+        outline: 2px solid currentColor;
+        outline-offset: 2px;
+    }
+    @media (max-width: 767.98px) {
+        html body .nc-movie-list.nc-movie-list .nc-movie-table thead tr > th.nc-movie-provider-col,
+        html body .nc-movie-list.nc-movie-list .nc-movie-table tbody tr > td.nc-movie-provider,
+        html body .nc-movie-list.nc-movie-list .nc-film-external-links {
+            display: none !important;
+        }
+    }
+
+
+    .nc-film-external-links .nc-film-imdb-rating { display: inline-flex; align-items: center; gap: 3px; margin-left: 7px; padding-right: 3px; font-size: 14px; font-weight: 600; white-space: nowrap; }
+    .nc-film-external-links .nc-film-imdb-rating__star { color: #f5c518; }
+    .nc-film-external-links .nc-film-imdb-rating small { font-size: 11px; opacity: .7; }
+    .nc-film-external-links .nc-film-external-link { padding: 5px; gap: 0; }
+

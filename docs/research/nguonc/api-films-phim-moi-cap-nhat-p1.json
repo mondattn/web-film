@@ -1,0 +1,311 @@
+{
+ "status": "success",
+ "paginate": {
+  "current_page": 1,
+  "total_page": 3365,
+  "total_items": 33645,
+  "items_per_page": 10
+ },
+ "items": [
+  {
+   "name": "Yêu Hết Lòng Chàng Fanboy",
+   "original_name": "Mr. Fanboy",
+   "slug": "yeu-het-long-chang-fanboy",
+   "year": "2026",
+   "description": "Wan, một fanboy cuồng nhiệt của Nine, bị Third - bạn diễn của Nine - hiểu lầm là fan cuồng (sasaeng). Tuy nhiên, Wan bất ngờ có cơ hội tham gia đóng chung bộ phim BL với cả hai, dẫn đến nhiều tình huống hỗn loạn trên phim trường. Trong quá trình dấn thân vào thế giới mới cùng hai hậu bối Renji và Time, cảm xúc của Wan dần trở nên phức tạp khi Third trở thành người luôn giúp đỡ anh, còn Nine lại thay đổi theo cách mà anh chưa từng ngờ tới.",
+   "total_episodes": 12,
+   "current_episode": "Tập 11",
+   "time": "55 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Kla Nathawat Piyanonpong",
+   "casts": "Auau Thanaphum Sestasittikul, Save Worapong Walor, James Supamongkon Wongwisut",
+   "tmdb": {
+    "id": 284825,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/284825"
+   },
+   "imdb": {
+    "id": "tt35932166",
+    "url": "https://www.imdb.com/title/tt35932166/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-7f846b27f3d7cf81e0bc2012c8e6af1c59a0adeb25ff7453f288224e417cd246.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-a0f13be482d295185f23ed4a3c263c53897b4e83d5fc0a4189fa78d4729082a5.webp",
+   "poster_url": "https://img.nguonc.com/images/img-403dc6dd757e6d78c75d62dadc74f18cb98909336435797ad2a95d64b5044589.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-c1375839c5a8c24b9d4d2a47909fbfd22087403ced62e77a1084d6cb35f793d9.webp",
+   "created": "2026-08-29T17:05:18.000000Z",
+   "modified": "2026-11-07T16:30:45.000000Z"
+  },
+  {
+   "name": "Sử Thi Odyssey",
+   "original_name": "The Odyssey",
+   "slug": "su-thi-odyssey",
+   "year": "2026",
+   "description": "Trên đường trở về, Odysseus phải đối mặt với hàng loạt thử thách rợn ngợp từ các quái vật và thế lực siêu nhiên: từ việc trốn thoát khỏi gã người khổng lồ một mắt Cyclops, đối đầu với phù thủy Circe (Samantha Morton), nữ thần Calypso (Charlize Theron), tiếng hát dụ dỗ của các nàng tiên cá (Sirens), cho đến sự dẫn dắt âm thầm của nữ thần chiến tranh Athena (Zendaya). Phim đan xen giữa cuộc chiến sinh tồn đẫm máu ngoài khơi xa và cuộc đấu trí căng thẳng của Penelope cùng Telemachus nhằm giữ vững vương quốc Ithaca trước những kẻ phản loạn đứng đầu bởi Antinous (Robert Pattinson), trước khi dẫn đến màn hội ngộ đẫm nước mắt và đầy bạo lực đẫm máu tại quê nhà.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "173 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Christopher Nolan",
+   "casts": "Matt Damon, Tom Holland, Anne Hathaway",
+   "tmdb": {
+    "id": 1368337,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/1368337"
+   },
+   "imdb": {
+    "id": "tt33764258",
+    "url": "https://www.imdb.com/title/tt33764258/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-5cb50ce72c139a60ee55956d7ce8b20d8110705fd82cf1e17ddc436f220eb10e.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-177c533afd4df3dafa4b0abff33653d46491b99dabda825f28e4c45d8f034f49.webp",
+   "poster_url": "https://img.nguonc.com/images/img-f0e689839aaf7b3a45eba012a294e715d3e0df461bf28f8e9dd4ba2976658368.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-7a39a89ac2bd1c3e81225dc10b30f84b768406a6bdc27d7261e35a8b86a91796.webp",
+   "created": "2026-08-27T16:35:14.000000Z",
+   "modified": "2026-11-07T16:26:39.000000Z"
+  },
+  {
+   "name": "Bác Sĩ X",
+   "original_name": "Doctor X: Mafia in White",
+   "slug": "bac-si-x",
+   "year": "2026",
+   "description": "Trong một bệnh viện bị chi phối bởi lòng ích kỷ và tham nhũng, một bác sĩ phẫu thuật đầy bí ẩn nhưng tài xuất chúng xuất hiện — tiếp nhận những ca bệnh tưởng chừng như vô vọng giữa sự chống đối quyết liệt.",
+   "total_episodes": 12,
+   "current_episode": "Tập 10",
+   "time": "65 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Lee Jeong-lim",
+   "casts": "Kim Ji-won, Lee Jung-eun, Son Hyun-joo, Kim Woo-seok",
+   "tmdb": {
+    "id": 293610,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/293610/season/1"
+   },
+   "imdb": {
+    "id": "tt39328047",
+    "url": "https://www.imdb.com/title/tt39328047/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-51c7ef015eae5869ad0bcdd2665b06d94a0e37893b90f17369ecb1095e18f35b.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-bdda1ba3f2fdb90438580e2e79ffacf878d2247a94b3fc237312c7a9c046b3e1.webp",
+   "poster_url": "https://img.nguonc.com/images/img-6469792bc53b11484e4fcb70e4881234a45e3a177ae4cbcbf0cfb16a3fa3e735.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-168d8a76fcd12fb30e99294e0e809e54ba73b05834a577cccd6dd8500a7b2a58.webp",
+   "created": "2026-10-09T15:30:26.000000Z",
+   "modified": "2026-11-07T16:18:09.000000Z"
+  },
+  {
+   "name": "Phải Sống Sót",
+   "original_name": "Khemjira",
+   "slug": "phai-song-sot",
+   "year": "2025",
+   "description": "Khemjira, hay còn gọi là Khem, là một chàng trai trẻ mang trong mình khả năng nhìn thấy linh hồn. Anh sinh ra trong một gia đình bị nguyền rủa — mọi người đàn ông trong dòng tộc đều phải chết trước tuổi 21. Khi các linh hồn quanh anh ngày càng trở nên hung dữ, chiếc bùa hộ mệnh mà anh đeo từ nhỏ bắt đầu mất dần tác dụng. Không thể chịu đựng khi thấy Khem đối mặt với hiểm nguy, Jettana — người bạn thân từ đại học — đã đưa anh về một ngôi làng hẻo lánh ở vùng Đông Bắc, nơi họ gặp Pharan, một bậc thầy huyền thuật cổ xưa, cũng là người từng dẫn dắt Jettana trên con đường ma pháp.",
+   "total_episodes": 16,
+   "current_episode": "Tập 14",
+   "time": "65 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Keng Harit Buayoi, Namping Napatsakorn Pingmuang, Tle Matimun Sreeboonrueang",
+   "tmdb": {
+    "id": 230915,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/230915"
+   },
+   "imdb": {
+    "id": "tt33258229",
+    "url": "https://www.imdb.com/title/tt33258229/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-57c1910d495fd16fbdbdde6e9dbe855619f9d71dc87b0695fcdc5ae2fe59806e.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-6bfe7d6c20834cbc19dac40d522cac237bb385b8dcfb01343de0a0163bccd640.webp",
+   "poster_url": "https://img.nguonc.com/images/img-7aeabea1efb5f3b4800768e5e95de5588e166a117d10a49036be297d67fe56ff.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-d89d86fbd719b0c3dda15b093188ec60d12ac3e26de311a996497aec512710b8.webp",
+   "created": "2025-08-09T15:59:24.000000Z",
+   "modified": "2026-11-07T16:18:02.000000Z"
+  },
+  {
+   "name": "Ký Túc Xá Bá Đạo",
+   "original_name": "The D Dorm",
+   "slug": "ky-tuc-xa-ba-dao",
+   "year": "2026",
+   "description": "Câu chuyện bắt đầu khi Dobby đưa ra quyết định bất ngờ là bán đi khu ký túc xá cũ của gia đình (The D Dorm). Tuy nhiên, để có được quyền bán tòa nhà này, anh vướng vào một nhiệm vụ dở khóc dở cười: phải giúp linh hồn của ông nội quá cố (A Kong) truy tìm lại người tình đầu tiên trong quá khứ.",
+   "total_episodes": 16,
+   "current_episode": "Tập 8",
+   "time": "47 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Poppy Ratchapong Anomakiti, Max Kornthas Rujeerattanavorapan, Zee Pruk Panich",
+   "tmdb": {
+    "id": 325855,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/325855"
+   },
+   "imdb": {
+    "id": "tt43599762",
+    "url": "https://www.imdb.com/title/tt43599762/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-9a2c32f3b6dd7c02ea274ee0c8d6c673ef108bb8f769711f6833b04fd72b3372.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-d107642ba9e20283838348ca5655b89228a5ebe36940fb519ee407b62c8df6ba.webp",
+   "poster_url": "https://img.nguonc.com/images/img-0d7976f36c74f10309979ac22ca9b0f0d4b13bb21312ba26f18275ae53b6c4f6.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-61977be56dabbdc215f82c97affe8f31894ead734700a52f04b2c17ce885dde4.webp",
+   "created": "2026-09-19T13:43:00.000000Z",
+   "modified": "2026-11-07T15:49:36.000000Z"
+  },
+  {
+   "name": "Cuộc Đua Tiếp Sức Của Chúng Ta",
+   "original_name": "Hakone Ekiden: Our Story",
+   "slug": "cuoc-dua-tiep-suc-cua-chung-ta",
+   "year": "2026",
+   "description": "Một cuộc chiến khốc liệt diễn ra khi một đội tuyển đại học chiến đấu để lội ngược dòng tại giải Hakone Ekiden, trong khi các nhà sản xuất truyền hình chiến đấu đằng sau hậu trường để phát sóng câu chuyện của họ.",
+   "total_episodes": 10,
+   "current_episode": "Tập 5",
+   "time": "70 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Yo Oizumi, Sairi Ito, Tomohisa Yamashita, Anna Yamada",
+   "tmdb": {
+    "id": 311955,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/311955/season/1"
+   },
+   "imdb": {
+    "id": "tt48376831",
+    "url": "https://www.imdb.com/title/tt48376831/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-213bf1756fe109d1e919a569aceba2f06ac340293ae40109732c946fdd98d69a.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-79b57093649ba0f5dfaddd16b7e0548482bceaa802a217061a37e477547b70db.webp",
+   "poster_url": "https://img.nguonc.com/images/img-4ed59baeac1858a7191419e5928d536437baf884e2edf0afc65d2da71e6c8def.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-1fbb0699f3efcc87297f8e1c4446dfa6bc709c6a92ebc3ebbe3730ea7fa97fc3.webp",
+   "created": "2026-10-10T16:26:49.000000Z",
+   "modified": "2026-11-07T15:48:50.000000Z"
+  },
+  {
+   "name": "Anh Là Nam Chính Đời Em",
+   "original_name": "Oh! My Guard",
+   "slug": "anh-la-nam-chinh-doi-em",
+   "year": "2026",
+   "description": "Một mối tình lãng mạn đầy bất ngờ bắt đầu khi một nam diễn viên \"bậc thầy phim tâm lý tình cảm\" đầy khiếm khuyết chạm trán một người phụ nữ bí ẩn tin rằng cô là nữ chính của một bộ phim truyền hình.",
+   "total_episodes": 16,
+   "current_episode": "Tập 5",
+   "time": "60 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Lee Seung-hoon, Yoon Jong-ho",
+   "casts": "Jung Yong-hwa, Hong Seung-hee, Lee Yi-kyung, Park You-na",
+   "tmdb": {
+    "id": 334517,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/334517/season/1"
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-a36aed74243c6ebe5b982c77ab62682c848bb595b1e53df77620918631ee2deb.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-84af4993f6e75bec1970cd22597ca6426da4add2d119089102588f9a614a5da1.webp",
+   "poster_url": "https://img.nguonc.com/images/img-236a7a3a0fdde8fba8d569985e40b59c8d5a3b4bb81571c8644e08797b922176.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-b39ad67ad3c7d2cbde3272c3bb7cdbe2c95caeeedf2fb8c3531f13b34c758a11.webp",
+   "created": "2026-10-24T16:42:54.000000Z",
+   "modified": "2026-11-07T15:29:18.000000Z"
+  },
+  {
+   "name": "100 Ngày Lừa Dối",
+   "original_name": "100 Days of Deception",
+   "slug": "100-ngay-lua-doi",
+   "year": "2026",
+   "description": "Nuôi hy vọng tìm được tự do, tên móc túi hàng đầu của Gyeongseong đã thâm nhập vào chính quyền thực dân Nhật Bản để đánh cắp bí mật — chỉ để rồi đem lòng yêu con trai của mục tiêu.",
+   "total_episodes": 16,
+   "current_episode": "Tập 9",
+   "time": "67 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Yoo In-sik",
+   "casts": "Kim You-jung, Jinyoung, Kim Hyun-joo, Lee Mu-saeng",
+   "tmdb": {
+    "id": 293607,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/293607/season/1"
+   },
+   "imdb": {
+    "id": "tt39201866",
+    "url": "https://www.imdb.com/title/tt39201866/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-172684a1dd9eb7a95d0373b2d6afc8e7240c031f022ee7f6d21ef687db7a6c8f.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-eeff16b4338802c931611d0c8c2d2fe6354645349a1de326d916ea72efa738bf.webp",
+   "poster_url": "https://img.nguonc.com/images/img-5b41dbb05c9079722601367a23171bf680bd146d68a996be1a26363fae1c4fe0.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-7298e1a1f63d6eb1526c471e6c47de64930644188ae0fd8d0efed47a799ba1b4.webp",
+   "created": "2026-10-10T14:55:51.000000Z",
+   "modified": "2026-11-07T14:50:21.000000Z"
+  },
+  {
+   "name": "Doraemon",
+   "original_name": "Doremon, Chú Mèo máy thần kỳ, Mèo Máy Doraemon, Đôrêmon",
+   "slug": "doraemon-2005",
+   "year": "2005",
+   "description": "Doraemon (2005) là bộ anime gần đây nhất dựa trên manga cùng tên của Fujiko Fujio. Đây là phiên bản năm 2005 của loạt phim năm 1979, với một số thay đổi nhất định về hình ảnh động và những thứ khác.",
+   "total_episodes": 1000,
+   "current_episode": "Tập 940",
+   "time": "23 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": 65733,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/65733"
+   },
+   "imdb": {
+    "id": "tt4083422",
+    "url": "https://www.imdb.com/title/tt4083422/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-c6b15cd325a9698c3294acad8c5c1829b26b318e7e63add2d6f757959328f96e.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-9770473674f2fe8e4923aa7cec723dc30be8226748f58d03a24731a4f04ecbe5.webp",
+   "poster_url": "",
+   "poster_url_webp": "https://img.nguonc.com/images/img-9770473674f2fe8e4923aa7cec723dc30be8226748f58d03a24731a4f04ecbe5.webp",
+   "created": "2023-07-18T14:38:11.000000Z",
+   "modified": "2026-11-07T14:47:16.000000Z"
+  },
+  {
+   "name": "Vùng Đất Quỷ Dữ",
+   "original_name": "Devils' Crest",
+   "slug": "vung-dat-quy-du-2026-2",
+   "year": "2026",
+   "description": "Yuma Ashihara đã sẵn sàng tận hưởng buổi chơi thử Actual Magic (AM) — VRMMO-RPG fulldive đầu tiên trên thế giới — cùng các bạn học Sawa Ashihara, Kenji Kondo và Minagi Sano. Kế hoạch rất đơn giản: đánh bại boss với đội bốn người, đăng xuất và kết thúc buổi chơi thử an toàn — hay ít nhất, mọi chuyện đáng lẽ phải diễn ra như vậy.",
+   "total_episodes": 3,
+   "current_episode": "Tập 2",
+   "time": "25 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Haruka Shiraishi, Konomi Inagaki, Yuya Hirose, Satomi Amano",
+   "tmdb": {
+    "id": 328010,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/328010/season/1"
+   },
+   "imdb": {
+    "id": "tt41054228",
+    "url": "https://www.imdb.com/title/tt41054228/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-7d7a055fe7b60a92ae1382ee42ddc82dc9ce52d34aa4d09893a787828cc3bc50.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-a781b8e2dee5b676ef4c4c6c6f1d82aed5d5b7f16334f709be579bbea62294e3.webp",
+   "poster_url": "https://img.nguonc.com/images/img-cacb000a366857d9c88d7550d68d33af799d6b03d03a7667b5865f87f8934399.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-aaa4048a0b11607277038fdc2163bb0b154115202b149f835ba6c00b37213a0a.webp",
+   "created": "2026-11-07T14:32:35.000000Z",
+   "modified": "2026-11-07T14:43:35.000000Z"
+  }
+ ]
+}

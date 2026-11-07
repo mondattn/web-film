@@ -1,0 +1,316 @@
+{
+ "status": "success",
+ "paginate": {
+  "current_page": 1,
+  "total_page": 455,
+  "total_items": 4547,
+  "items_per_page": 10
+ },
+ "cat": {
+  "name": "Hình sự",
+  "title": "Hình sự",
+  "slug": "hinh-su"
+ },
+ "items": [
+  {
+   "name": "Bác Sĩ X",
+   "original_name": "Doctor X: Mafia in White",
+   "slug": "bac-si-x",
+   "year": "2026",
+   "description": "Trong một bệnh viện bị chi phối bởi lòng ích kỷ và tham nhũng, một bác sĩ phẫu thuật đầy bí ẩn nhưng tài xuất chúng xuất hiện — tiếp nhận những ca bệnh tưởng chừng như vô vọng giữa sự chống đối quyết liệt.",
+   "total_episodes": 12,
+   "current_episode": "Tập 10",
+   "time": "65 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Lee Jeong-lim",
+   "casts": "Kim Ji-won, Lee Jung-eun, Son Hyun-joo, Kim Woo-seok",
+   "tmdb": {
+    "id": 293610,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/293610/season/1"
+   },
+   "imdb": {
+    "id": "tt39328047",
+    "url": "https://www.imdb.com/title/tt39328047/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-51c7ef015eae5869ad0bcdd2665b06d94a0e37893b90f17369ecb1095e18f35b.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-bdda1ba3f2fdb90438580e2e79ffacf878d2247a94b3fc237312c7a9c046b3e1.webp",
+   "poster_url": "https://img.nguonc.com/images/img-6469792bc53b11484e4fcb70e4881234a45e3a177ae4cbcbf0cfb16a3fa3e735.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-168d8a76fcd12fb30e99294e0e809e54ba73b05834a577cccd6dd8500a7b2a58.webp",
+   "created": "2026-10-09T15:30:26.000000Z",
+   "modified": "2026-11-07T16:18:09.000000Z"
+  },
+  {
+   "name": "Thám Tử Lừng Danh Conan",
+   "original_name": "Detective Conan, Case Closed, Meitantei Conan",
+   "slug": "tham-tu-lung-danh-conan",
+   "year": "1996",
+   "description": "Shinichi Kudou, một học sinh trung học có tài năng đáng kinh ngạc trong công việc thám tử, nổi tiếng vì đã giải quyết một số vụ án đầy thách thức. Một ngày nọ, khi Shinichi phát hiện ra hai người đàn ông đáng ngờ và quyết định theo dõi họ, anh vô tình trở thành nhân chứng cho một hoạt động phi pháp đáng lo ngại.",
+   "total_episodes": 2000,
+   "current_episode": "Tập 1219",
+   "time": "24 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Lồng Tiếng",
+   "director": null,
+   "casts": null,
+   "tmdb": {
+    "id": 30983,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/30983"
+   },
+   "imdb": {
+    "id": "tt0131179",
+    "url": "https://www.imdb.com/title/tt0131179/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-92e24423ac097c47fe1a0cec2475d8bf1e0180f130245d299d09952a967e1ff3.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-8c6e61ade11e6834f60e713598f7c046ca919b6a07e9a0e0732ddb7f27825e4f.webp",
+   "poster_url": "",
+   "poster_url_webp": "https://img.nguonc.com/images/img-8c6e61ade11e6834f60e713598f7c046ca919b6a07e9a0e0732ddb7f27825e4f.webp",
+   "created": "2023-07-18T14:38:54.000000Z",
+   "modified": "2026-11-07T14:35:30.000000Z"
+  },
+  {
+   "name": "Lời Nói Dối Hoàn Hảo",
+   "original_name": "The Perfect Lie",
+   "slug": "loi-noi-doi-hoan-hao-2026",
+   "year": "2026",
+   "description": "Joonho, một bác sĩ phẫu thuật tim với nụ cười hoàn hảo, và Jisun, một thủ thư kiêm giáo viên phóng khoáng, đã trải qua một đêm đặc biệt sau một buổi hẹn hò rung động trái tim. Ngày hôm sau, họ đối mặt với nhau tại đồn cảnh sát với những ký ức hoàn toàn khác nhau. Một trong số họ đang nói dối. Không có bằng chứng hay nhân chứng, ngay cả kết quả máy phát hiện nói dối cũng đi ngược lại mong đợi, và sự nghi ngờ lẫn nhau đã đẩy cuộc sống của họ vào hỗn loạn. Những câu hỏi về người vợ quá cố của Joonho tiết lộ rằng vụ án vượt ra ngoài tầm kiểm soát của hai người. Khi những lời khai mâu thuẫn và các mối quan hệ ẩn giấu lộ diện, sự thật càng trở nên mờ mịt, và một lời nói dối châm ngòi cho trò chơi nguy hiểm mà không ai có thể tin tưởng.",
+   "total_episodes": 12,
+   "current_episode": "Tập 3",
+   "time": "60 Phút/Tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Cho Young-min",
+   "casts": "Yoo Yeon-seok, Seo Hyun-jin, Ok Ja-yeon, Kim Ji-hyun",
+   "tmdb": {
+    "id": 307478,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/307478/season/1"
+   },
+   "imdb": {
+    "id": "tt47657141",
+    "url": "https://www.imdb.com/title/tt47657141/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-50d32acbbcca9a9297fad388f4443e3d0cc90cbfa497e108467c8e8170a7d7fe.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-79b085c66170c5782237e928140864098a52af254488af55d4e5710a4070fa05.webp",
+   "poster_url": "https://img.nguonc.com/images/img-26e2ec43f3b2196eea9ada96cddb4f601451d84a121c54e2e8f251497aa0d64b.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-a44340b5eb60bfd57a67dd0f4b2f41cea10b940f8f1790412839529ebbf4d96b.webp",
+   "created": "2026-10-30T17:35:21.000000Z",
+   "modified": "2026-11-07T04:19:08.000000Z"
+  },
+  {
+   "name": "Bồ Câu Đen (Phần 2)",
+   "original_name": "Black Doves (Season 2)",
+   "slug": "bo-cau-den-phan-2",
+   "year": "2026",
+   "description": "Helen vẫn tiếp tục bán đứng bí mật quốc gia cho tổ chức bí mật mà cô phục vụ: Black Doves. Nhưng sau những biến cố vào Giáng sinh năm ngoái, và với việc chồng cô là Wallace đang chuẩn bị trở thành Thủ tướng, cô đang bước đi trên một lằn ranh hiểm nghèo hơn bao giờ hết.",
+   "total_episodes": 6,
+   "current_episode": "Hoàn tất (6/6)",
+   "time": "50 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Julian Farino, Kieron Hawkes",
+   "casts": "Keira Knightley, Ben Whishaw, Sarah Lancashire, Andrew Buchan",
+   "tmdb": {
+    "id": 225385,
+    "type": "tv",
+    "season": 2,
+    "url": "https://www.themoviedb.org/tv/225385/season/2"
+   },
+   "imdb": {
+    "id": "tt27995113",
+    "url": "https://www.imdb.com/title/tt27995113/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-81854bfb39045434da50e4cb6af741028fec75e1e02159122ad4060c485c2c26.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-5e9382f3f78e71ba7ec43f4c7672646e028b42f58f6d0c721c5fa5f3d006538e.webp",
+   "poster_url": "https://img.nguonc.com/images/img-e1442f26e3042e877f23bc86b93c3d55b9ccaf5ecc92795ee537ca1bdcddc8b1.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-0705839605b1b8becfb8eff67b7cd30735525423169cb6bfdca85185fd5244a7.webp",
+   "created": "2026-11-06T03:33:23.000000Z",
+   "modified": "2026-11-06T04:03:21.000000Z"
+  },
+  {
+   "name": "Bồ Câu Đen (Phần 1)",
+   "original_name": "Black Doves (Season 1)",
+   "slug": "bo-cau-den-phan-1",
+   "year": "2024",
+   "description": "Đóng giả làm vợ của một chính trị gia, nữ gián điệp nọ biết rằng người tình của mình đã bị sát hại. Một người bạn cũ là sát thủ bèn cùng cô đi tìm sự thật và trả thù.",
+   "total_episodes": 6,
+   "current_episode": "Hoàn tất (6/6)",
+   "time": "55 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Joe Barton",
+   "casts": "Keira Knightley, Ben Whishaw, Sarah Lancashire",
+   "tmdb": {
+    "id": 225385,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/225385"
+   },
+   "imdb": {
+    "id": "tt27995113",
+    "url": "https://www.imdb.com/title/tt27995113/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-651f061862f16212d69397abb34ccf1c1003576809a11d0b9ece0c0aa2d22c31.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-ce160bd13896ee4167e636887cafcb592924f99683d63847aa1dda04f9b6b32b.webp",
+   "poster_url": "https://img.nguonc.com/images/img-2869bf9ef1037fa98c0bb088bcfe7d7aed902313ee04ef7582669501e8b33299.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-d1d2cdb7bac900a156dd775f82bb0953a26bf61ff121c7d4000eb1221ee7389c.webp",
+   "created": "2024-12-06T07:08:26.000000Z",
+   "modified": "2026-11-06T03:33:59.000000Z"
+  },
+  {
+   "name": "Đạo Chích Chính Trường",
+   "original_name": "Political Lupin",
+   "slug": "dao-chich-chinh-truong",
+   "year": "2026",
+   "description": "Một siêu đạo chích xâm nhập vào giới chính trị để lén lút thực hiện vụ cướp thế kỷ nhằm chiếm đoạt các quỹ chính trị tham nhũng.",
+   "total_episodes": 9,
+   "current_episode": "Tập 3",
+   "time": "46 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Mai Takano, Masaki Tanimura",
+   "casts": "Satomi Ishihara, Issey Takahashi, Yuumi Kawai, Kanichiro",
+   "tmdb": {
+    "id": 332261,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/332261/season/1"
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-f6aa50c19fee59819d7f02e5e76797737902184119f2a6f2f99ed7694c87201c.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-22849c0eb941589f1da3dacd965b80b821a638bfa4c6a897aff92426222f799a.webp",
+   "poster_url": "https://img.nguonc.com/images/img-6d967c04c9c0b2a4596154e421ce4274da33dda015a275d0f901ba240b641851.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-b41ed568383199bd58aa88bf315e6e93ce9492381edb05c3294af9e6a376d65f.webp",
+   "created": "2026-10-23T05:23:34.000000Z",
+   "modified": "2026-11-04T16:45:06.000000Z"
+  },
+  {
+   "name": "Vòng Lặp Mẫu Tử",
+   "original_name": "Your Mother Your Mother Your Mother",
+   "slug": "vong-lap-mau-tu",
+   "year": "2026",
+   "description": "Latif, một sát thủ vô cùng sùng đạo, chật vật cân bằng giữa công việc, đức tin và trách nhiệm làm cha. Khi vợ qua đời, anh bắt đầu hành trình tuyệt vọng khắp Houston để bảo vệ các con, đối mặt với các thế lực đang vây quanh – và những niềm tin đang lung lay từ bên trong.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "112 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Bassam Tariq",
+   "casts": "Mahershala Ali, John Cho, Giancarlo Esposito, Abubakr Ali",
+   "tmdb": {
+    "id": 1437396,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/1437396"
+   },
+   "imdb": {
+    "id": "tt35856037",
+    "url": "https://www.imdb.com/title/tt35856037/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-be57a48e183b886a96384b226dfd50c0a350460c2da347c3c4897f94736d03f4.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-a0326aeffb42f16bada0147351c5c160470adcf4e687079843cad537004c8409.webp",
+   "poster_url": "https://img.nguonc.com/images/img-b4c09a0573c27829c100b9a3cdc1c6b01f4e8155a62757456dfbec00018f2814.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-e5fa235365568f3f522ee8c77ef3f65fbbdeba6839c5389436b08307d1d9fa0e.webp",
+   "created": "2026-11-04T12:53:22.000000Z",
+   "modified": "2026-11-04T13:12:34.000000Z"
+  },
+  {
+   "name": "Tình Yêu Ngụy Trang",
+   "original_name": "Love in Disguise",
+   "slug": "tinh-yeu-nguy-trang",
+   "year": "2026",
+   "description": "Yoon Yi jun, người thừa kế của Tập đoàn Taekang, là nghi phạm chính trong một vụ án mạng chấn động. Để lật tẩy sự thật, Kang Jae hee đã cải trang thành một thư ký nam để theo dõi Yi jun. Càng đến gần với những gì thực sự đã xảy ra, Yi jun và Jae hee lại càng trở nên gắn bó hơn. Liệu Jae hee, người đang che giấu thân phận của mình, và Yi jun, người đang giấu một bí mật, có thể bày tỏ cảm xúc thật của họ cho đối phương biết không?",
+   "total_episodes": 12,
+   "current_episode": "Tập 6",
+   "time": "65 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Park Dan-hee",
+   "casts": "Yim Si-wan, Seorina, Kim Jung-hyun, Yeon Woo",
+   "tmdb": {
+    "id": 303745,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/303745/season/1"
+   },
+   "imdb": {
+    "id": "tt45246384",
+    "url": "https://www.imdb.com/title/tt45246384/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-c15c66e744d0b989b78fc6ffc57c95f6945f70f74d358385e1c337dbcdad22c7.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-2bb040a274c55ff823cbfc96668c549d9ad3856b4b509fb893d1e252ac049888.webp",
+   "poster_url": "https://img.nguonc.com/images/img-c02cb7d1b8866a7d11cc74997d109f65e537fe9c3a571ab0ed423bc05bbafb74.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-df17ee1dcf85023aa6c17e05245f2c42fe8de801dccb7ac4d00a9a074446ed44.webp",
+   "created": "2026-10-19T16:40:26.000000Z",
+   "modified": "2026-11-04T04:09:06.000000Z"
+  },
+  {
+   "name": "Trò Chơi Bắt Cóc",
+   "original_name": "kiDnap GAME",
+   "slug": "tro-choi-bat-coc",
+   "year": "2026",
+   "description": "Tại bảy thành phố ở châu Á, những người xa lạ bị ép tham gia vào một trò chơi sinh tử, nơi chỉ có một người có thể cứu người thân yêu của mình bằng cách đánh bại những người khác.",
+   "total_episodes": 11,
+   "current_episode": "Tập 5",
+   "time": "59 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub + Thuyết Minh",
+   "director": "Yusuke Kato",
+   "casts": "Kentaro Sakaguchi, Lee Joon-gi, Alice Ko, Carrie Wong",
+   "tmdb": {
+    "id": 320513,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/320513/season/1"
+   },
+   "imdb": {
+    "id": "tt42798488",
+    "url": "https://www.imdb.com/title/tt42798488/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-f374cbd0e51b34f7503c4016553b017a7a81371eafe3b8ca81b17f6310ff9e83.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-e8f35c0d23fa24c60284f5cf8486628991bc425d38acf3aaecb83c333a44d625.webp",
+   "poster_url": "https://img.nguonc.com/images/img-56a6cf7384858fb67c8e29841f1303c4e8b43fc22d5823fd22f74e59a3176874.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-fa1adefbb75c89c4e900a97ccb6b9866bede40e46e0c3771450224d1f6684de5.webp",
+   "created": "2026-10-07T08:37:57.000000Z",
+   "modified": "2026-11-03T16:48:31.000000Z"
+  },
+  {
+   "name": "Nữ Luật Sư Kỳ Lạ Minami",
+   "original_name": "Extraordinary Attorney Minami",
+   "slug": "nu-luat-su-ky-la-minami",
+   "year": "2026",
+   "description": "Phim kể về một nữ luật sư tân binh mắc chứng Rối loạn phổ tự kỷ (ASD) bước chân vào thế giới pháp lý rộng lớn và đầy thử thách; dù phải đối mặt với vô số trở ngại, cô vẫn vượt qua muôn vàn khó khăn nhờ góc nhìn độc đáo và những tia sáng lóe lên từ trí tuệ của mình. Qua mốiε liên kết với các đồng nghiệp, bạn bè và gia đình, bộ phim khắc họa một cách đầy cảm động hành trình trưởng thành và chuyển hóa của cô—cả với tư cách là một luật sư lẫn một cá nhân.",
+   "total_episodes": 10,
+   "current_episode": "Tập 3",
+   "time": null,
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": null,
+   "casts": "Mana Ashida, Fumiya Takahashi, Kanata Hosoda, Shiori Kubo",
+   "tmdb": {
+    "id": 332713,
+    "type": "tv",
+    "season": 1,
+    "url": "https://www.themoviedb.org/tv/332713/season/1"
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-4002dc210ff4a5dd2425a5107c90a6f49a4ef15615451866812ea9dc4d37bac3.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-19d7da6c5d2bfccf9ebb08cc911fe2a67b75de9f3c82df406f1da73a5b571a9e.webp",
+   "poster_url": "https://img.nguonc.com/images/img-9b1f119da527bfeed92597296963586c8dd4036b7ba24e3015b678803ff91813.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-d4213e23c07fe246afa8a610455490bfd63c3a69a642217120cbe20222e6697d.webp",
+   "created": "2026-10-19T15:46:18.000000Z",
+   "modified": "2026-11-02T15:33:50.000000Z"
+  }
+ ]
+}

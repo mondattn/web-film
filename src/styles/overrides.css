@@ -1,0 +1,18 @@
+/* public-overrides.css của bản gốc — chỉ phần trang phim dùng. */
+a.nc-film-external-link,
+a.nc-film-external-link:hover,
+a.nc-film-external-link:focus,
+a.nc-film-external-link:active {
+    background: transparent !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+.nc-film-external-links .nc-film-external-link { padding: 5px; gap: 0; }
+
+/* Bản gốc chèn <style> inline trong #form-filter: 6 ô lọc trên desktop. */
+@media (min-width: 1100px) {
+    #form-filter .nc-filter-fields { grid-template-columns: repeat(6, minmax(0, 1fr)) auto; }
+}
+/* Clone: cột Ngôn ngữ thay cột Quốc gia (API không có quốc gia) — tách "Vietsub + Thuyết Minh" thành từng tag, không xuống dòng. */
+.nc-movie-table .nc-language-tags .nc-tag { white-space: nowrap; }

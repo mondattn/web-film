@@ -1,0 +1,321 @@
+{
+ "status": "success",
+ "paginate": {
+  "current_page": 1,
+  "total_page": 12,
+  "total_items": 118,
+  "items_per_page": 10
+ },
+ "items": [
+  {
+   "id": "eyJpdiI6ImM3QUhSQ1p0bUlCekIra1IyUkVSTVE9PSIsInZhbHVlIjoieWhaVTFGM0RLUUdpY0luYkxrbEFIdz09IiwibWFjIjoiMWQxNjU1ZTE1ODc0YTE4ZDY2ZmVjNTNjMGJmMWE3ZTYzODhlOTJmMmQ2Nzc4NDA4NGYyMDYyMTE0OGEyMTZjNiJ9",
+   "name": "Bác Sĩ House (Phần 3)",
+   "original_name": "House M.D. (Season 3)",
+   "slug": "bac-si-house-phan-3",
+   "year": 2006,
+   "description": "Kéo theo bác sĩ Wilson, House vướng vào rắc rối khi thói quen dùng thuốc giảm đau khiến anh phải trộm tập giấy kê đơn.",
+   "total_episodes": 24,
+   "current_episode": "Hoàn tất (24/24)",
+   "time": "45 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Deran Sarafian",
+   "casts": "Hugh Laurie, Omar Epps, Robert Sean Leonard, Jesse Spencer, Lisa Edelstein, Bobbin Bergstrom, Jennifer Morrison, Peter Jacobson, Olivia Wilde",
+   "tmdb": {
+    "id": 1408,
+    "type": "tv",
+    "season": 3,
+    "url": "https://www.themoviedb.org/tv/1408/season/3"
+   },
+   "imdb": {
+    "id": "tt0412142",
+    "url": "https://www.imdb.com/title/tt0412142/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-83f29f0c910d60fe50092a87f8a75fad65a07c105acec10a035ac49c5010c52c.png",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-6eda05b7c8fc8803b1359ac6104fa16f835afa4502b010e6eff2bc669d700368.webp",
+   "poster_url": "https://img.nguonc.com/images/img-fbcadd21e4e902af13fe1600f430ca6e3a2444ef34a1b91291f4d9d7631bdfc4.png",
+   "poster_url_webp": "https://img.nguonc.com/images/img-4aa22f50b3a07569ef09ad9c7179eb07afe3b1dd4e46b063adbd26b19b2edf9c.webp",
+   "created": "2023-07-01T17:37:06.000000Z",
+   "modified": "2024-10-03T04:27:20.000000Z"
+  },
+  {
+   "id": "eyJpdiI6IllBWlRZNTlSK3k5Vnc1MERCRXhxUXc9PSIsInZhbHVlIjoibjhlZkZqT0R3M2YrcUo3b0lpd2E2dz09IiwibWFjIjoiZDA1MzUxOWQ4YTkxMDdlNDI2MjcxNDc4ZmYzYjFiYmVhMWQ2MTUxOTk3ZjMwYzAwMTAxMDI2ZTEzZjUzNDRlNSJ9",
+   "name": "Bác Sĩ Dolittle: Chuyến Phiêu Lưu Thần Thoại",
+   "original_name": "Dolittle",
+   "slug": "bac-si-dolittle-chuyen-phieu-luu-than-thoai",
+   "year": 2020,
+   "description": "Bộ phim kể về vị bác sĩ nổi tiếng Dolittle - người đàn ông có thể nói chuyện với động vật. Sau khi vợ mất, anh sống tách biệt với thế giới bên ngoài, chỉ đến khi nữ hoàng Anh bị bệnh, anh mới trở lại. Dolittle đã dấn thân trong hành trình phiêu lưu đầy nguy hiểm đến hòn đảo thần thoại để tìm ra phương thuốc chữa bệnh. Đồng hành cùng Dolittle là một học viên trẻ (Harry Collett từ phim Dunkirk) và nhóm động vật “ồn ào” gồm: anh khỉ đột hay lo lắng, cô vịt nhiệt tình nhưng ngốc ngếch, cặp đôi đà điểu hoài nghi hay cãi cùng chú gấu bắc cực lạc quan và một bác vẹt đầu đàn.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "101 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Stephen Gaghan",
+   "casts": "Robert Downey Jr., Antonio Banderas, Michael Sheen",
+   "tmdb": {
+    "id": 448119,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/448119"
+   },
+   "imdb": {
+    "id": "tt6673612",
+    "url": "https://www.imdb.com/title/tt6673612/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-4702dc8195b55bf28a6448e1ddf7aaa0c12d1fe62de52f2c7c3eb08fd9737f76.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-9c5fdbc57fa7dc8861231cd2d9c9a9a9cdb87f32cdfd6eba9bd68131ffe70c09.webp",
+   "poster_url": "https://img.nguonc.com/images/img-6561189f6ab85df114addf2ce6d7b49f76d1d6a14798718dba782d3af8b17e8b.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-ae5bd594acd29ca1632c337bc4ec1c91ad7e61ce6c26ce687dc31122f4a969ca.webp",
+   "created": "2023-07-03T05:47:15.000000Z",
+   "modified": "2024-06-15T08:33:06.000000Z"
+  },
+  {
+   "id": "eyJpdiI6InlraFo1RmR1MjE3YVk4OWNLTzhhUlE9PSIsInZhbHVlIjoicmY4RTNEbmlqdDRMcUdWY3lVZitmQT09IiwibWFjIjoiZDhiNDljMjA2MmE3OWM3NWI0NDE4NTkxZmM5MzRkZmU1YjdjMWJiYzQyODEwOWNjNjIxODEyNTg4NzNkZGJlMSJ9",
+   "name": "Bác Sĩ Vô Danh: Một Ngày Của Bác Sĩ",
+   "original_name": "Doctor Who: The Day of the Doctor",
+   "slug": "bac-si-vo-danh-mot-ngay-cua-bac-si",
+   "year": 2013,
+   "description": "Vào năm 2013, một cái gì đó khủng khiếp đang thức tỉnh trong Phòng trưng bày Quốc gia của London; năm 1562, một âm mưu giết người bắt đầu xảy ra ở Anh thời Elizabeth; và ở một nơi nào đó trong không gian, một trận chiến cổ xưa đi đến cái kết tàn khốc. Thực tại đang bị đe dọa khi quá khứ nguy hiểm của chính Doctor quay lại ám ảnh anh ta.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "77 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Nick Hurran",
+   "casts": "Matt Smith, David Tennant, John Hurt",
+   "tmdb": {
+    "id": 313106,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/313106"
+   },
+   "imdb": {
+    "id": "tt2779318",
+    "url": "https://www.imdb.com/title/tt2779318/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-a59ba2b89537f942a5e755b845d3b4d7457df952fe40d2a17cfbbb0a9a4f6fc8.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-f6990265eeadb1d92de876241518ce561a3d9582e25a41547b526d3159f96ac2.webp",
+   "poster_url": "https://img.nguonc.com/images/img-9e369743fb017d79c174fa4030df9f2b09374a77ce7c0e3f7473a02427367da7.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-d34228640239c992aaa2c0b807bd2139a7f5291f8c1c8df0a93e57d2eded3c83.webp",
+   "created": "2023-07-03T10:40:25.000000Z",
+   "modified": "2023-07-13T13:17:05.000000Z"
+  },
+  {
+   "id": "eyJpdiI6IjltOHBaRGxzblBFM1ljVEFrbjVvS2c9PSIsInZhbHVlIjoiTmkzb0dWZkM3elY3dXVwWmd4d1pndz09IiwibWFjIjoiYjdhYzAyMDUyNTQ5MjMzODQ1MDAzNmMyOWY3MDc4ZjMyYTIzNmViYmE4N2EzODNlMDM2ZjYyOTQ0NDQxYmQyMiJ9",
+   "name": "Bác Sĩ Cha",
+   "original_name": "Doctor Cha Jung Sook",
+   "slug": "bac-si-cha",
+   "year": 2023,
+   "description": "Hai mươi năm sau khi rời bỏ nghề y, một bà nội trợ trở lại với tư cách là bác sĩ nội trú năm nhất và chật vật tìm chỗ đứng trong một công việc đầy những bất ngờ.​",
+   "total_episodes": 16,
+   "current_episode": "Hoàn tất (16/16)",
+   "time": "60 phút/tập",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Kim Dae-jin, Jung Yeo-rang",
+   "casts": "Uhm Jung Hwa, Kim Byung Chul, Myung Se Bin",
+   "tmdb": {
+    "id": 214997,
+    "type": "tv",
+    "season": null,
+    "url": "https://www.themoviedb.org/tv/214997"
+   },
+   "imdb": {
+    "id": "tt27075857",
+    "url": "https://www.imdb.com/title/tt27075857/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-06443163c517216085994bd1f235589d6217613edf12aed35ef4c0f165f68ee8.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-a9c5d07f861ea9416828ff990842dcbf2debf6b01f75e0091a75784ae12ca197.webp",
+   "poster_url": "https://img.nguonc.com/images/img-c3c50cc23728fe5f7031d315e2fe28f4ab5df73fa83ff66a862bc489fb3c58f8.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-45fd2cc76aaf5099bb4335b6d6c10a31adf356e7bdb1c3647f46767e7c96811a.webp",
+   "created": "2023-07-08T16:29:22.000000Z",
+   "modified": "2025-01-22T04:16:43.000000Z"
+  },
+  {
+   "id": "eyJpdiI6ImFERmZWM3V3cXlla3ZUa0xLa1dIOGc9PSIsInZhbHVlIjoiMUZwbm12OVQ5VUgwKy9SWnc0RWl1dz09IiwibWFjIjoiZDIyOTA4MDI0OWFmNmMyYzM1YWQwYWNkNjkxNWMxNDNkN2JiZTI4ZTc4MmRhZDhmMzY4ZjllN2IyZDkzNjZmYSJ9",
+   "name": "Thiếu Tá Grom: Bác Sĩ Bệnh Dịch",
+   "original_name": "Major Grom: Plague Doctor",
+   "slug": "thieu-ta-grom-bac-si-benh-dich",
+   "year": 2021,
+   "description": "Khi một hiệp khách đeo mặt nạ giết người hàng loạt và gây hỗn loạn cả thành phố, chỉ có vị thanh tra nổi loạn và cộng sự tân binh mới có thể ngăn chặn anh ta.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "136 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Oleg Trofim",
+   "casts": "Tikhon Zhiznevsky, Lyubov Aksyonova, Aleksey Maklakov",
+   "tmdb": {
+    "id": 529106,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/529106"
+   },
+   "imdb": {
+    "id": "tt7601480",
+    "url": "https://www.imdb.com/title/tt7601480/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-2e9ad01cb500779dc239a296878dfb13627d6022a274131dcee88926c604dfb1.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-c5c3fad26569a1fb96aa3acade42b2967620e873ba7a4cce9d67d5bfdb7b2560.webp",
+   "poster_url": "https://img.nguonc.com/images/img-17f69485f15ebeab078149e9178fb853a0352d7f5c14f3175cda438c06b0e8e9.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-2be0b82208b2040329974b8f563dd4764f05d37fd5de3c3a77b4950cd2139559.webp",
+   "created": "2023-07-04T00:59:48.000000Z",
+   "modified": "2023-07-18T02:16:49.000000Z"
+  },
+  {
+   "id": "eyJpdiI6IkMyY1ptY2g5Q2ZXTnBPbWJocU91cmc9PSIsInZhbHVlIjoiTlBZaWpmSHhaVTJWU0pEMVplVE95Zz09IiwibWFjIjoiOTMxYjM0ZmQwMzZmZDAyNDhmNzA5MDQ2YTljZDE4MTVhOTZjZDNhOTI2NDNiMjEzMzk4Y2Y3OGFhMjdlNDBlZCJ9",
+   "name": "Ám Ảnh Ở Thác Bạc",
+   "original_name": "A Haunting at Silver Falls",
+   "slug": "am-anh-o-thac-bac",
+   "year": 2013,
+   "description": "Một thị trấn nhỏ bị ám ảnh bởi hai cô con gái sinh đôi của một người đàn ông bị kết án oan. Jordan trẻ tuổi được gửi đến con đường để tìm ra kẻ giết người thực sự là ai, chỉ để tìm ra kẻ giết người đang ở rất gần cô.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "1h 36m",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Brett Donowho",
+   "casts": "Steve Bacic, Tara Westwood, Alix Elizabeth Gitter",
+   "tmdb": {
+    "id": 197919,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/197919"
+   },
+   "imdb": {
+    "id": "tt1813609",
+    "url": "https://www.imdb.com/title/tt1813609/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-03390abaaf8e32532eeeff785fcaeebc461cd024db94421f316e84c4aaf1a8cd.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-443a9fdced3de63051de06983fafb1676159d4788e09ea75b5c09721487ba489.webp",
+   "poster_url": "https://img.nguonc.com/images/img-bb95a0a47a36f07285d61fc5ebf0e36c1f21bebdee65c0ecd0df1c1e410237fa.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-fc9fbea3f61c15e3dadc34d45d163fd589b50ad699981baa65c136fe71361d32.webp",
+   "created": "2023-07-01T12:03:56.000000Z",
+   "modified": "2023-07-11T17:33:55.000000Z"
+  },
+  {
+   "id": "eyJpdiI6ImRTVGp3bzFFUU92bHluby95Sk82MHc9PSIsInZhbHVlIjoieHRweGRFVDEyMmNPN3N0OVpsTlJOQT09IiwibWFjIjoiMTU4NTRjZTA4MzA1ZTQ4OTJiMWVjODYwMTQyY2NiYTE1ODJlY2Q4NjQwM2RiN2NkZDY3YzQ3OGFjZGIwZDQyYiJ9",
+   "name": "Sinh Tồn Ở Bắc Cực",
+   "original_name": "Arctic",
+   "slug": "sinh-ton-o-bac-cuc",
+   "year": 2018,
+   "description": "Bộ phim kể về một người đàn ông bị mắc kẹt ở Bắc Cực sau một vụ tai nạn máy bay, phải quyết định liệu có nên ở lại trại tạm thời (tương tối an toàn) của anh ta hay bắt tay vào một chuyến đi chết người qua những điều chưa biết, với hy vọng sống sót….",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "98 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Joe Penna",
+   "casts": "Mads Mikkelsen, Maria Thelma Smáradóttir, Tintrinai Thikhasuk",
+   "tmdb": {
+    "id": 453755,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/453755"
+   },
+   "imdb": {
+    "id": "tt6820256",
+    "url": "https://www.imdb.com/title/tt6820256/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-beaed9986dc9fc4ea6ff81ea618d192a3c7372eb74a04c8824dd80e6f0c81b8e.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-520aa5c868865a64703bb17c2c4499d3a11b12022942eeb226f467bbdcd96461.webp",
+   "poster_url": "https://img.nguonc.com/images/img-55e15074e06e46b74f1736270e0791032ab5509be783efe576176f83808ba1d4.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-67fa1d589d7daff9dc1171dcc25f1581f7ff1b2be6e5c15e2d6cb986db779efb.webp",
+   "created": "2023-07-02T18:36:57.000000Z",
+   "modified": "2025-04-09T18:19:49.000000Z"
+  },
+  {
+   "id": "eyJpdiI6IlBlSFZXcjBGOW5SOXp3ekd1YUphNHc9PSIsInZhbHVlIjoiZ0hkVGZhMW1peGk4MW1xbnV3R1VTUT09IiwibWFjIjoiMTVhNTVjN2Y5MmFkMzlkNTUxNDcyYzcwNjc2ZTI2MmY3NTc5Y2MwNTgxNjMyZDM4N2JlOGMyZDM5YzQyNTgwMSJ9",
+   "name": "Bách Biến Tinh Quân",
+   "original_name": "Sixty Million Dollar Man",
+   "slug": "bach-bien-tinh-quan",
+   "year": 1995,
+   "description": "Sing ( Châu Tinh Trì ) là một con nhà giàu sống ở Hawaii. Anh ấy kiêu ngạo và thích chơi những trò xấu xa với mọi người xung quanh. Cuộc sống của anh thay đổi khi anh gặp Chung-Chung, một phụ nữ trẻ mà anh tuyên bố là rất xấu xí.\r\n\r\nTat (Ngô Mạnh Đạt), trợ lý trung thành của Sing, được mẹ của Sing tiết lộ là cha ruột của anh. Sau đó, anh phải đối mặt với một quyết định: Chấp nhận Tat là cha mình và mất quyền thừa kế hoặc tiếp tục gọi người đàn ông kia là cha và sống trong cuộc sống xa hoa. …Và cuối cùng anh ấy đã hi sinh mạng sống để chọn cha ruột của mình.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "92 phút",
+   "quality": "HD",
+   "language": "Lồng Tiếng",
+   "director": "La Vĩnh Xương",
+   "casts": "Châu Tinh Trì, Lương Vịnh Kỳ, Ngô Mạnh Đạt, Tôn Giai Quân, Từ Cẩm Giang",
+   "tmdb": {
+    "id": 52324,
+    "type": "movie",
+    "season": null,
+    "url": "https://www.themoviedb.org/movie/52324"
+   },
+   "imdb": {
+    "id": "tt0112446",
+    "url": "https://www.imdb.com/title/tt0112446/"
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-7eedfe98901643da7e9ea1476a6e5f31afdbad63e725af76b8e599b3d1568469.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-1da1439ae92059fae347c5d17e3466338a764b29aa5b1631f1367f47f40bfb8a.webp",
+   "poster_url": "https://img.nguonc.com/images/img-ef75b05a2fde7606a570eb76000b3ecaacc57a80080d0d5e8e1f1aeb4b057c58.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-a20df2a6c17ccb0c9aa8391d6a554661ddad56c4b64df3a592fcf939a10370dc.webp",
+   "created": "2023-07-03T09:56:02.000000Z",
+   "modified": "2023-09-21T15:21:46.000000Z"
+  },
+  {
+   "id": "eyJpdiI6ImZpUFM0MDBreVNPWXVZdDR6dWpwQnc9PSIsInZhbHVlIjoiRGliYjFVRk9ranpuWjkwSERpTG40Zz09IiwibWFjIjoiYTZiYTVmNThlOGFlNGZiZTg3YTI0NDY4NjRlNDc5NTJjYjExNWQ0YmRkYjg4ZDBlMzljNjJkZmQ0Njk0NzczNyJ9",
+   "name": "Siêu Pháo Đài Không Gian Macross",
+   "original_name": "Macross: Flash Back",
+   "slug": "sieu-phao-dai-khong-gian-macross",
+   "year": 1987,
+   "description": "Flash Back 2012 là buổi biểu diễn chia tay của Minmay. Với một số bài hát hay nhất của cô ấy, âm nhạc được trình diễn qua nhiều cảnh và sự kiện khác nhau lấy từ loạt phim truyền hình Macross đầu tiên cũng như bộ phim Macross: Do You Remember Love. Ngoài ra còn có một phân cảnh kết thúc hoạt hình mới cho thấy việc phóng tàu thuộc địa của Misa, Megaroad-01, vào không gian.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "30 phút",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Shoji Kawamori",
+   "casts": "Mari Iijima, Arihiro Hase, Mika Doi",
+   "tmdb": {
+    "id": null,
+    "type": null,
+    "season": null,
+    "url": null
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-e385969c275422d6ae59f1355a1b40de81652070e358a24b96221586df9746e0.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-8b8e28cd3b00cbfd53f9251bb50c6fff90cee44ad8da1ecd33295261bb941344.webp",
+   "poster_url": "https://img.nguonc.com/images/img-c6460fe86737f9dd5de9f2091f644e30f3eda9d663c8976410a3ba759c35f357.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-cf6a03ed186cb1a89d20f555e9ac1647c40f61b634cfda27d1e9bd35de1dcd8e.webp",
+   "created": "2023-07-03T11:15:14.000000Z",
+   "modified": "2023-07-11T16:25:11.000000Z"
+  },
+  {
+   "id": "eyJpdiI6InJMeXNNK2d4c2V6YTd1N1FmV21qbnc9PSIsInZhbHVlIjoiejU0VmU1SDB6QUJOTnpSS082Yjd1QT09IiwibWFjIjoiNjIyOTNkYjQxMTQzMTMzNDBiNzE3NDFkNDhiMzJmYWI2YzhmYTU0NGY0NmEzMGYzMDg3NzU5MTdhMGEzYzg3ZiJ9",
+   "name": "Psycho-Pass: Sinners Of The System Case.1 - Tsumi To Bachi",
+   "original_name": "Psycho-Pass: Sinners Of The System Case.1 - Tsumi To Bachi",
+   "slug": "psycho-pass-sinners-of-the-system-case1-tsumi-to-bachi",
+   "year": 2019,
+   "description": "Một chiếc xe bỏ chạy đâm vào Tòa nhà Cục An toàn Công cộng. Người lái xe được xác định là Izumi Yasaka, một cố vấn tâm lý tại Sanctuary, Cơ sở cách ly tội phạm tiềm ẩn ở tỉnh Aomori. Nhưng ngay trước khi cô bị thẩm vấn, Thanh tra Mika Shimotsuki và Người thi hành án Nobuchika Ginoza được giao nhiệm vụ nhanh chóng hộ tống Yasaka trở lại Aomori. Điều đang chờ đợi họ ở đó là một Thiên đường giả.",
+   "total_episodes": 1,
+   "current_episode": "FULL",
+   "time": "1h",
+   "quality": "HD",
+   "language": "Vietsub",
+   "director": "Naoyoshi Shiotani",
+   "casts": "Z. Charles Bolton, Jason Douglas, R. Bruce Elliott",
+   "tmdb": {
+    "id": null,
+    "type": null,
+    "season": null,
+    "url": null
+   },
+   "imdb": {
+    "id": null,
+    "url": null
+   },
+   "thumb_url": "https://img.nguonc.com/images/img-252a7bb7a88be36a45b8cb4ade1a7fc58ddc051d88cd1c1785dc6222ccc7da66.jpg",
+   "thumb_url_webp": "https://img.nguonc.com/images/img-5798b41b0a0e26e31d62c653c15278d09f656f81343600b74fa3ceef7585cbc2.webp",
+   "poster_url": "https://img.nguonc.com/images/img-04b27b849d27fcd75eee492909035830316a3deeb6210408af60d145820a48f5.jpg",
+   "poster_url_webp": "https://img.nguonc.com/images/img-30bca7372759046b610cc026d7a151d013f0bf3b41dc8e74bc080276c704113f.webp",
+   "created": "2023-07-03T19:52:25.000000Z",
+   "modified": "2023-07-13T19:30:09.000000Z"
+  }
+ ]
+}

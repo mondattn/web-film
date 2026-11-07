@@ -1,0 +1,87 @@
+/*
+ * base.css — phần reset tương đương Tailwind preflight v3 mà bản gốc nạp qua index.css,
+ * cộng vài rule "CUSTOM CSS" của index.css mà trang phim dùng (sub-menu/option_theme ẩn hiện),
+ * và phần riêng của bản clone (backdrop glow thay ảnh bg-dark.png, wordmark).
+ */
+
+*, ::before, ::after { box-sizing: border-box; border: 0 solid #e5e7eb; }
+html { line-height: 1.5; -webkit-text-size-adjust: 100%; tab-size: 4; font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif; }
+body { margin: 0; line-height: inherit; width: 100%; overflow-x: hidden; }
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+a { color: inherit; text-decoration: inherit; }
+b, strong { font-weight: bolder; }
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 1em; }
+small { font-size: 80%; }
+button, input, optgroup, select, textarea { font-family: inherit; font-size: 100%; line-height: inherit; color: inherit; margin: 0; padding: 0; }
+button, select { text-transform: none; }
+button, [type="button"], [type="reset"], [type="submit"] { -webkit-appearance: button; background-color: transparent; background-image: none; }
+[type="search"] { -webkit-appearance: textfield; outline-offset: -2px; }
+::-webkit-search-decoration { -webkit-appearance: none; }
+summary { display: list-item; }
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0; }
+fieldset { margin: 0; padding: 0; }
+legend { padding: 0; }
+menu, ol, ul { list-style: none; margin: 0; padding: 0; }
+textarea { resize: vertical; }
+input::placeholder, textarea::placeholder { color: #9ca3af; }
+[role="button"], button { cursor: pointer; }
+:disabled { cursor: default; }
+audio, canvas, embed, iframe, img, object, svg, video { display: block; vertical-align: middle; }
+img, video { max-width: 100%; height: auto; }
+[hidden] { display: none; }
+[type="text"], [type="search"], [type="number"], textarea, select {
+    -webkit-appearance: none; appearance: none; background-color: #fff; border-color: #6b7280; border-width: 1px;
+    border-radius: 0; padding: .5rem .75rem; font-size: 1rem; line-height: 1.5rem;
+}
+[type="text"]:focus, [type="search"]:focus, [type="number"]:focus, textarea:focus, select:focus { outline: 2px solid transparent; outline-offset: 2px; }
+[type="radio"] { -webkit-appearance: none; appearance: none; padding: 0; display: inline-block; vertical-align: middle; background-origin: border-box; user-select: none; flex-shrink: 0; height: 1rem; width: 1rem; color: #2563eb; background-color: #fff; border-color: #6b7280; border-width: 1px; border-radius: 100%; }
+[type="radio"]:checked { border-color: transparent; background-color: currentColor; background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3'/%3e%3c/svg%3e"); }
+.antialiased { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* index.css › CUSTOM CSS: popup header ẩn/hiện bằng .active */
+.sub-menu, .option_theme, .form-search { opacity: 0; transition: 0.3s; transform: scale(0); }
+.sub-menu.active, .option_theme.active, .form-search.active { opacity: 1; transform: scale(1); }
+.sub_menu_mobile { display: none; }
+.sub_menu_mobile.active { display: block; }
+html.dark .nc-icon-light { display: none; }
+html:not(.dark) .nc-icon-dark { display: none; }
+
+/* ===== Riêng bản clone ===== */
+
+/* Bản gốc đặt ảnh bg-dark.png (90rem) ở góc trên phải, z-20, pointer-events none.
+   Clone không lấy được ảnh (vượt ngân sách body của REA) → vẽ lại quầng sáng bằng gradient. */
+.nc-backdrop {
+    position: absolute; z-index: 20; top: 0; right: 0; left: 0; height: 640px;
+    display: flex; justify-content: center; overflow: hidden; pointer-events: none;
+}
+.nc-backdrop__glow {
+    width: 108rem; flex: none; height: 100%;
+    background:
+        radial-gradient(520px 320px at 78% 12%, rgba(99, 102, 241, 0.22), transparent 70%),
+        radial-gradient(760px 420px at 92% 42%, rgba(56, 189, 248, 0.10), transparent 70%),
+        radial-gradient(420px 260px at 60% 30%, rgba(124, 58, 237, 0.10), transparent 70%);
+    opacity: 0.9;
+}
+html:not(.dark) .nc-backdrop__glow { opacity: 0.55; }
+
+/* Wordmark thay logo PNG của bản gốc (màu đỏ #f00 → #ab1515 theo ảnh gốc). */
+.nc-brand__mark {
+    display: inline-flex; align-items: baseline; justify-content: flex-start; gap: 5px; width: 150px; height: 40px; line-height: 40px;
+    font-family: Dosis, "Avenir Next Condensed", "Arial Narrow", Impact, ui-sans-serif, system-ui, sans-serif;
+    font-size: 27px; font-weight: 800; letter-spacing: 0.02em; text-transform: uppercase;
+    color: #ff0000; text-shadow: 0 2px 0 #ab1515, 0 4px 14px rgba(255, 0, 0, 0.28);
+    white-space: nowrap;
+}
+.nc-brand__mark small { font-size: 12px; font-weight: 700; letter-spacing: 0.22em; color: var(--nc-text-soft); text-shadow: none; }
+
+/* Trang placeholder cho các route chưa dựng (danh sách, thể loại, tìm kiếm…) */
+.nc-stub { display: grid; justify-items: center; gap: 10px; padding: 72px 16px; text-align: center; }
+.nc-stub h1 { color: var(--nc-text); font-size: 24px; font-weight: 820; }
+.nc-stub p { max-width: 560px; color: var(--nc-text-soft); font-size: 14px; line-height: 1.7; }
+.nc-stub code { color: var(--nc-primary); font-size: 13px; }
+
+/* Trạng thái tải / lỗi của trang phim */
+.nc-page-status { display: grid; justify-items: center; gap: 12px; padding: 80px 16px; color: var(--nc-text-soft); text-align: center; }
+.nc-page-status .nc-player-spinner { width: 30px; height: 30px; }
+.nc-page-status strong { color: var(--nc-text); font-size: 18px; font-weight: 800; }
+.nc-brand__mark-alt { color: var(--nc-text); text-shadow: none; }

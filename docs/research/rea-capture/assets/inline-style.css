@@ -1,0 +1,8 @@
+
+            .dark .close_menu_mb svg{
+                fill: #d9d1d1;
+            }
+            .page-item.disabled .page-link{
+                display: none !important;
+            }
+        
